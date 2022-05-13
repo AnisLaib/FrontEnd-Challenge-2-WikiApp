@@ -7,4 +7,4 @@
 this project is the first challenge of the frontend challenges organized by the WebDev section of the GDSC USTHB Club.
 
 # License
-This Project is under the CC0 license.
+This Project is under the MIT license.
